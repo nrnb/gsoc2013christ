@@ -1,0 +1,14 @@
+En:12340	normal	S:P123456
+Ch:45678	normal	En:12345
+Ec:ABXY23	normal	Bg:22445
+Ch:45678	normal	Dr:DB000001
+Bg:22445	normal	Ec:ABxy23
+En:23450	normal	S:P23456
+Ch:56789	normal	Bg:22445
+Ec:ABXY34	normal	S:P23456
+Ch:56789	normal	S:P23456
+En:34560	normal	S:P34567
+En:12300	normal	En:234
+En:34500	normal	En:456
+En:56700	normal	En:678
+En:78900	normal	En:890

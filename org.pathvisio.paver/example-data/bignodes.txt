@@ -1,0 +1,108 @@
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
+test1	3324	Entrez Gene
+test2	HMDB213	Ch
+test3	23144
+53845
+HMDB4543
+test4
